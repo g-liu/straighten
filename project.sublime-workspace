@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Vert",
+				"VerticalLine"
+			],
+			[
+				"pre",
+				"preprocess_prog"
+			],
+			[
+				"eval",
+				"eval_prog"
+			],
+			[
+				"axend",
+				"aXend"
+			],
+			[
+				"real",
+				"real_close"
+			],
+			[
+				"reaL",
+				"real_close_point"
+			],
+			[
+				"prepro",
+				"preprocess_prog"
+			],
+			[
+				"let",
+				"let	SML 'let' block"
+			],
+			[
+				"prepr",
+				"preprocess_prog"
+			],
+			[
+				"prep",
+				"preprocess_prog"
+			],
+			[
+				"passw",
+				"password_valid"
+			],
+			[
+				"ann",
+				"annotations"
+			],
+			[
+				"annota",
+				"annotationStorage"
+			],
+			[
+				"an",
+				"annotations"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"respo",
+				"responseFn"
+			],
+			[
+				"autocom",
+				"autocompleteSuggestor"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"anno",
+				"annotationpopuppastannotations"
+			],
+			[
+				"opt",
+				"option	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 581.0,
+		"last_filter": "INST",
+		"selected_items":
+		[
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			]
+		],
+		"width": 749.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Geoffrey/Documents/GitHub/straighten-crop-calculator/style.css",
+		"/C/Users/Geoffrey/Documents/GitHub/straighten-crop-calculator/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/straighten-crop-calculator/crop.js",
+		"/C/Users/Geoffrey/Google Drive/School/new-resume-ideation/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/resume/index.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/node_modules/grunt-template-jasmine-istanbul/node_modules/istanbul/lib/report/teamcity.js",
+		"/C/Users/Geoffrey/Documents/GitHub/learnxinyminutes-docs/standard-ml.html.markdown",
+		"/C/Users/Geoffrey/Documents/GitHub/learnxinyminutes-docs/racket.html.markdown",
+		"/C/Users/Geoffrey/Documents/GitHub/whodoyouthinkyouareiam/README.md",
+		"/C/Users/Geoffrey/Documents/GitHub/whodoyouthinkyouareiam/.gitignore",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/tweets.js",
+		"/C/Users/Geoffrey/Downloads/something.rb",
+		"/C/Users/Geoffrey/Downloads/PandaPow.mobileconfig",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/lectures/sec9konstantin.rb",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw7/hw7.sml",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw7/hw7tests.rb",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw7/hw7.rb",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw7/hw7testsprovided.rb",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw7/hw7testsprovided.sml",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw7/hw7tests.sml",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/search-all.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/common.php",
+		"/C/Users/geoff/Google Drive/School/cse341/hw7/hw7testsprovided.rb",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/a.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/b.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/mymdb.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/search-kevin.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/bacon.css",
+		"/C/Users/geoff/Google Drive/School/cse341/hw6/hw6assignment.rb",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/stutter.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/login.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/submit.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/cow.css",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/start.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/logout.php",
+		"/C/Users/geoff/AppData/Local/Temp/fz3temp-1/todolist.php",
+		"/C/Users/geoff/Google Drive/School/cse341/hw6/hw6runner.rb",
+		"/C/Users/geoff/Google Drive/School/cse341/hw6/hw6provided.rb",
+		"/C/Users/geoff/Google Drive/School/cse341/hw6/hw6tests.rb",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/validate-this.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/start.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/common.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/meme.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/meme.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/images.php",
+		"/C/Users/Geoffrey/Documents/My Bluetooth/cookie_pastannotations",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/bestreads.php",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/modules/priceParser.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/modules/currencyFormatter.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/Gruntfile.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/app/modules/AnnotationSearch.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/app/modules/AnnotationStorage.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/project.sublime-project",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/.gitignore",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/test/testCurrencyFormatter.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/test/lib/strToDom.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/app.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/common-prefs.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/background.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/popup.js",
+		"/C/Users/Geoffrey/Documents/GitHub/show-tax/app/scripts/options.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/README.md",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/package.json",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/scripts.js",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/in-class.txt",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/main.js",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/.gitignore",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/first-file.txt",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/myjyxkek.y1e.txt",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/passwords.txt",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/animals.js",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Geoffrey/Documents/section/animals.js",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/calculations.php",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/animals.php",
+		"/C/Users/Geoffrey/Documents/section/animals.php",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/ot3l0hfa.b5v.txt",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/controller.js",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/controller.js.txt",
+		"/C/Users/Geoffrey/Documents/GitHub/demonstration/style.css",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/README.html",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/manifest.json",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/listener.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/own.css",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/index.html",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/index.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/annotations-native.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/native.html",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/annotations.js",
+		"/C/Users/Geoffrey/Documents/GitHub/better-annotations/list.min.js",
+		"/C/Users/Geoffrey/Documents/GitHub/SandboxRepo/First-File.txt",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/kitties.php",
+		"/C/Users/Geoffrey/Documents/GitHub/SandboxRepo/3zvcaout.wv1.txt",
+		"/C/Users/Geoffrey/AppData/Local/GitHub/PortableGit_25d850739bc178b2eb13c3e2a9faafea2f9143c0/mingw32/share/doc/git-doc/git-status.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/addressbook.js",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/addresses.txt",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/midterm.py",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/midterm_results.txt",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/practice/practice.sml",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/extra/angular-js.txt",
+		"/C/Users/Geoffrey/Google Drive/School/cse341/hw1/hw1.sml",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/hw3/speedreader.css",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/hw3/speedreader.html",
+		"/C/Users/Geoffrey/Google Drive/School/cse154/hw3/speedreader.js",
+		"/C/Users/Geoffrey/AppData/Local/Temp/fz3temp-1/ajaxpets.html",
+		"/C/Users/Geoffrey/AppData/Roaming/Sublime Text 3/Packages/User/ajax.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\geoff\\Google Drive\\School\\cse341\\hw6"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wp-caption-text",
+			"define-syntax",
+			"syntax-rules",
+			"todo",
+			"eval_prog",
+			"preprocess",
+			"preprocess_",
+			"inspect",
+			"preprocess",
+			"close_enough",
+			"close",
+			"inbetween",
+			"lineseg",
+			"Point",
+			"point",
+			"Let.new",
+			"preprocess",
+			"Let",
+			"preprocess",
+			"inspect",
+			"inbetween",
+			"intersectWithSegmentAsLineResult",
+			"def intersect",
+			"real_close_point",
+			"dx dy",
+			"GeometryExpression",
+			"shift(",
+			"preprocess_prog",
+			"DB",
+			"next_piece",
+			"})\n",
+			"current_rotation",
+			"store_current",
+			"next_piece",
+			"MyPiece",
+			"order",
+			"drop",
+			"localst",
+			"this.",
+			"updateCompletionList",
+			"console.log",
+			"availableTags",
+			"ac",
+			"p",
+			"h3",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ce"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 222.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"t",
+				"hw6tests.rb"
+			],
+			[
+				"tests",
+				"hw6tests.rb"
+			],
+			[
+				"runn",
+				"hw6runner.rb"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"curr",
+				"app\\scripts\\modules\\currencyFormatter.js"
+			],
+			[
+				"pricepar",
+				"app\\scripts\\modules\\priceParser.js"
+			],
+			[
+				"ansto",
+				"app\\modules\\AnnotationStorage.js"
+			],
+			[
+				"annose",
+				"app\\modules\\AnnotationSearch.js"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"proje",
+				"project.sublime-project"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"readm",
+				"README.html"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"scr",
+				"scripts.js"
+			],
+			[
+				"an",
+				"annotations.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

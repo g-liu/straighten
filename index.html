@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Crop after straighten calc</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	<section id="main">
+		<section id="calculator">
+			<p>Rotation angle: <input type="text" size="3" name="crop-angle" /> &deg;</p>
+			<p>Width: <input type="text" size="4" name="image-width" /></p>
+			<p>Height: <input type="text" size="4" name="image-height" /></p>
+
+			<input type="button" id="calculate" value="Calculate" />
+
+			<div id="results">
+				<p>New width and height: <span id="img-width">0</span>px &times; <span id="img-height">0</span>px</p>
+			</div>
+		</section>
+	</section>
+
+	<script type="text/javascript" src="crop.js"></script>
+</body>
+</html>
