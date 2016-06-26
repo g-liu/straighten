@@ -10,7 +10,7 @@ window.onload = function() {
 function calculateCrop() {
 	remember();
 
-	var cropAngle = document.getElementsByName("crop-angle")[0].value;
+	var cropAngle = Math.abs(document.getElementsByName("crop-angle")[0].value);
 	var imageWidth = document.getElementsByName("image-width")[0].value;
 	var imageHeight = document.getElementsByName("image-height")[0].value;
 
